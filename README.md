@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with MERN<br>🌱 I’m currently learning React Native & Next JS<br>💬 Ask me about Movies , Chess 🎶<br>⚡ Fun fact
+🔭 I’m currently a student<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with MERN<br>🌱 I’m currently learning React Native & Next JS<br>💬 Ask me about Movies , Chess 🎶
 
 
 ## 🌐 Socials:
