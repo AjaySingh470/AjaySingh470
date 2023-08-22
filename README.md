@@ -17,6 +17,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=AjaySingh470)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
