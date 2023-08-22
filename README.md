@@ -13,10 +13,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjaySingh470&theme=monokai)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaySingh470&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 ![](https://komarev.com/ghpvc/?username=AjaySingh470)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
